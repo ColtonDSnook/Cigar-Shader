@@ -91,7 +91,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
-    - _CigarBurn: 1
+    - _CigarBurn: 0.335
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -104,8 +104,10 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Length: 1
+    - _Length: 0.59
     - _Metallic: 0
+    - _NoiseScale: 500
+    - _NoiseStrength: 0.1
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
